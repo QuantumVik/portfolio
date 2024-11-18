@@ -1,55 +1,36 @@
 data:
   home:
-    name: Nishant Singh
+    name: Vikrant Singh
     description: |
-      A Passionate Developer Specializing in Web and Software Development
+      A Passionate Developer Specializing in Machine Learning Enthusiasm
     email:
-      addr: thakurnishant5102003@gmail.com
-      subject: Hi Nishant, I'd like to hire you
+      addr: vikrantsingh.personal.503@gmail.com
+      subject: Hi Vikrant, I'd like to hire you
   projects:
     project_list:
-      - title: Integrated K8S Controller for Ingress and Services
-        link: https://github.com/thakurnishu/sik-controller-kubebuilder
+      - title: Late Night Inspiration
+        link: https://github.com/QuantumVik/Late_Night_Inspiration
         description: |
-          Developed a Kubernetes Controller using KubeBuilder and Client-Go 
-          to automate and streamline the lifecycle management of services and ingress resources, 
-          ensuring efficient and seamless deployments
-      - title: Orchestrating Kubernetes Deployments using CICD, GitOps and IAC
-        link: https://github.com/thakurnishu/GoLang-WebServer
-        description: |
-          Orchestrated efficient Kubernetes deployments using CI/CD, GitOps, and IaC.
-          Designed a robust Jenkins pipeline with a shared library approach integrated 
-          ArgoCD for seamless Kubernetes deployments, and automated infrastructure 
-          management with Terraform, ensuring consistency and scalability.
-      - title: Deployed Static Website with Edge Caching and CI/CD on Azure DevOps
-        link: https://github.com/thakurnishu/StaticWebsite-AzureCloud
-        description: |
-          Deployed a static website with edge caching and CI/CD on Microsoft Azure, leveraging
-          Azure Storage and Azure CDN for cost-effective hosting and optimized global performance.
-          Automated deployments using Azure DevOps CI/CD pipelines, ensuring rapid updates and scalability.
-          Configured Azure CDN to enhance user experience with faster website loading times worldwide.
-      - title: Deployment of a Scalable and Highly Available 3-Tier Web Application on Azure
-        link: https://github.com/thakurnishu/Tier3WebApplication-AzureCloud
-        description: |
-          Implemented a scalable 3-tier web application on Azure using Golang, Kubernetes, Docker, and Terraform.
-          Leveraged VMSS, Load Balancer, and Azure Application Gateway for high availability and dynamic scaling.
-          Automated deployments with Azure CLI and secured infrastructure with Trivy and SonarQube,
-          integrating Azure Database for MySQL for robust data management.
+          Late Night Inspiration is powered by Python and FastAPI for backend development, 
+          MySQL for secure idea storage, and APScheduler for timely reminders. 
+          It ensures a seamless user experience with robust CRUD functionality to manage ideas. 
+          Future enhancements include Docker for containerization and streamlined deployment. 
+          The app guarantees your brilliant ideas are saved, explored, and never forgotten!
+      
   connects:
     connection_list:
       - service: github
-        link: https://github.com/thakurnishu
+        link: https://github.com/QunatumVik
       - service: linkedin
-        link: https://www.linkedin.com/in/contact-nishant-singh
+        link: www.linkedin.com/in/vikrant-singh-135002256
       - service: twitter
-        link: https://x.com/ntsh53
+        link: https://x.com/Vikrant_2003
       - service: medium
-        link: https://medium.com/@thakurnishant5102003
-      - service: hashnode
-        link: https://hashnode.com/@Nishu0510
+        link: https://medium.com/@thakurviku2003
   about:
     description: |
-      An undergraduate from Shri Mata Vaishno Devi University.
-      I have a strong passion for <b>Cloud</b> and <b>DevOps</b> technologies and I am continuously learning new technologies. 
-      I have valuable experience in DevOps, implementing Continuous Integration and Deployment (CI/CD) using Github Action.
-      Currently, I am expanding my knowledge on different technologies
+     An undergraduate from Army Institute of Technology, Pune.
+I am a third-year student with a strong passion for <b>Generative AI</b> and <b>Machine Learning</b> technologies, 
+continuously expanding my knowledge in these fields. I am actively exploring advanced techniques in AI and ML, 
+focusing on solving real-world problems through innovative and intelligent solutions. Currently, 
+I am working on projects that deepen my expertise and understanding of cutting-edge AI and ML applications.
